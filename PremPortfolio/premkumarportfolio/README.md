@@ -1,20 +1,10 @@
-# ancod3r.github.io
+# Premkumar4512.github.io
 
-My portfolio website built using HTML, CSS, and JavaScript. You can check it out [here](https://ancod3r.github.io).
-
-
-
-## Screenshots
-
-<p float="center">
-    <img src="https://github.com/ancod3r/ancod3r.github.io/blob/master/Screenshots/1.png" width="800">
-</p>
-
-
+My portfolio website built using HTML, CSS, and JavaScript. You can check it out [here](https://Premkumar45.github.io).
 
 ## Author
 
-👤 **Rajneesh Kumar**
+👤 **PREMKUMAR**
 
-* LinkedIn: [@ancod3r](https://www.linkedin.com/in/ancod3r)
-* GitHub: [@ancod3r](https://github.com/ancod3r)
+* LinkedIn: [@Premkummar45](https://www.linkedin.com/in/bondla-premkumar-1b3358225)
+* GitHub: [@Premkumar45](https://github.com/Premkumar4512/Premkumar4512.github.io)
